@@ -2,6 +2,10 @@
 
 Este projeto visa fornecer um Dashboard interativo de acompanhamento de Recursos Humanos (RH) utilizando a ferramenta Power BI. O Dashboard proporciona uma visão geral dos principais indicadores de desempenho (KPIs) relacionados ao RH, permitindo uma análise eficaz e tomada de decisões informadas.
 
+<iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiOTMzYmI0N2UtMWUzNy00YTQwLWJlYTktOGY4Njc3OTlmZGM4IiwidCI6IjUwZTM5ZDgzLTY4NTEtNDg0MS04Zjc3LWQyMjY2N2FmZTMxZSJ9" frameborder="0" allowFullScreen="true"></iframe>
+
+
+
 <h2>KPIs Incluídos:</h2>
 Contratações: Número total de novas contratações dentro de um período específico.
 Colaboradores Ativos: Total de colaboradores atualmente empregados pela empresa.
